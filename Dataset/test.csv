@@ -1,0 +1,6 @@
+months_as_customer,policy_deductable,umbrella_limit,capital-gains,capital-loss,incident_hour_of_the_day,number_of_vehicles_involved,bodily_injuries,witnesses,injury_claim,property_claim,property_claim,vehicle_claim
+328,1000,0,53300,0,5,1,1,2,6510,13020,13020,52080
+228,2000,5000000,0,0,8,1,0,0,780,780,780,3510
+134,2000,5000000,35100,0,7,3,2,3,7700,3850,3850,23100
+256,2000,6000000,48900,-62400,5,1,1,2,6340,6340,6340,50720
+228,1000,6000000,66000,-46000,20,1,0,1,1300,650,650,4550
